@@ -1,21 +1,14 @@
-# college-projects
-# Learning & College Projects
+# College Projects
 
-This repository contains small programming exercises, coursework practice, and personal learning notes.
+This repository contains programming practice, small assignments, and learning exercises.
 
-## Purpose
-- Practice programming fundamentals
-- Store university-related exercises
-- Track learning progress over time
-
-## Topics I'm currently studying
-- Python basics
-- Data structures
-- Mathematics for engineering
+## Focus areas
+- Python fundamentals
 - Problem solving
+- Basic algorithms and data structures
 
-## Structure
-Projects will be added gradually as I learn new concepts.
+## Goal
+To document my progress while learning programming and software development.
 
-## Notes
-This repository is updated periodically as part of my learning process.
+## Note
+Projects will be added gradually as I continue studying.
