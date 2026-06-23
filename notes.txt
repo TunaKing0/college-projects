@@ -1,0 +1,8 @@
+Day 1:
+- Created GitHub repository
+- Learned how commits work
+- Practicing basic programming structure
+
+Goals:
+- Improve Python skills
+- Build small projects weekly
